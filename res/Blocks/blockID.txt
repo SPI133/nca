@@ -1,0 +1,5 @@
+#id mappings
+id=0 blank
+id=1 brick block (block)
+id=2 lava top (lava)
+id=3 lava bottom (lava2)

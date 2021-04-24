@@ -1,0 +1,5 @@
+#collisionMethod line
+playerBlockType1Collision 42
+playerMovingBlockType1Collision 162
+playerDeathBlockType1Collision 282
+demonBlockType1Collision 316

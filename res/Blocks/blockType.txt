@@ -1,0 +1,8 @@
+BLOCKS
+Type 1:Regular blocks to walk on
+MOVING BLOCKS
+Type 1:Regular moving blocks to walk on
+DEATH BLOCKS
+Type 1:Blocks that kill some entities that land on it
+    #Note:Map shouldn't allow entities to collide with
+          any other side of the block
